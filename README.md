@@ -2,8 +2,6 @@
 Hello there! My name is <a href="https://vk.com/ninjaseekinglight" target="_blank">Zaur</a> .<br>⛩️ I’m currently learning Dart/Flutter<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yakudzae_) 
-
 <p  align="left">
 
 <a  href="https://vk.com/ninjaseekinglight"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/vk-circled.png"  alt="onigatari"  height="48"  width="48"/></a>
