@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! My name is Zaur.<br>⛩️ I’m currently learning Dart/Flutter<br>
+Hello there! My name is <a href="https://vk.com/ninjaseekinglight" target="_blank">Zaur</a> .<br>⛩️ I’m currently learning Dart/Flutter<br>
 
 
 ## 🌐 Socials:
