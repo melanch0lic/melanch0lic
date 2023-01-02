@@ -1,5 +1,11 @@
 # 💫 About Me:
 Hello there! My name is <a href="https://vk.com/ninjaseekinglight" target="_blank">Zaur</a> .<br>⛩️ I’m currently learning Dart/Flutter<br>
+<p  align="left">
+
+<a  href="https://vk.com/ninjaseekinglight"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/vk-circled.png"  alt="onigatari"  height="48"  width="48"/></a>
+<a  href="https://t.me/empathic15"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="onigatari"  height="48"  width="48" /></a> 
+
+</p>
 
 
 ## 🌐 Socials:
