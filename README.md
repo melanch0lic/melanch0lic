@@ -2,7 +2,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm <a href="t.me/empathic15" target="_blank">Zaur</a>.<br>
+        I'm <a href="https://vk.com/ninjaseekinglight" target="_blank">Zaur</a>.<br>
         Currently learning Flutter/Dart without falling on my bottom.⛩️ The way of Flutter samurai is here.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
