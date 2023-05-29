@@ -1,11 +1,10 @@
-# 💫 About Me:
-Hello there! My name is <a href="t.me/empathic15" target="_blank">Zaur</a> .<br>⛩️ I’m currently learning Dart/Flutter<br>
-
-## 🌐 Socials:
-<p  align="left">
-
-<a  href="https://t.me/empathic15"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="onigatari"  height="48"  width="48" /></a> 
-
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Zaur.<br>
+        Currently learning Flutter/Dart without falling on my bottom. The way of Flutter samurai is here.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
 </p>
 
 # 💻 Tech Stack:
