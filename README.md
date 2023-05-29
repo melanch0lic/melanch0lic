@@ -2,10 +2,11 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Zaur.<br>
-        Currently learning Flutter/Dart without falling on my bottom. The way of Flutter samurai is here.<br>
+        I'm <a href="t.me/empathic15" target="_blank">Zaur</a>.<br>
+        Currently learning Flutter/Dart without falling on my bottom.⛩️ The way of Flutter samurai is here.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
+    <a  href="https://t.me/empathic15"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="onigatari"  height="48"  width="48" /></a> 
 </p>
 
 # 💻 Tech Stack:
