@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, guys! ></h1>
+<h1 align="center">Hello there, guys!</h1>
 <h1 align="center">Flutter, eat, sleep, repeat</h1>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
