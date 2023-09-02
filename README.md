@@ -1,6 +1,7 @@
 <h1 align="center">Hello there, guys! ></h1>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
+    <h1>Flutter, eat, sleep, repeat</h1>
     <i>
         I'm <a href="https://vk.com/ninjaseekinglight" target="_blank">Zaur</a>.<br>
         Currently learning Flutter/Dart without falling on my bottom.⛩️ The way of Flutter samurai is here.<br>
