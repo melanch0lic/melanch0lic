@@ -1,13 +1,14 @@
 <h1 align="center">Hello there, guys! ></h1>
+<h1 align="center">Flutter, eat, sleep, repeat</h1>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <h1>Flutter, eat, sleep, repeat</h1>
-    <i>
+   <i>
         I'm <a href="https://vk.com/ninjaseekinglight" target="_blank">Zaur</a>.<br>
         Currently learning Flutter/Dart without falling on my bottom.⛩️ The way of Flutter samurai is here.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a  href="https://t.me/empathic15"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="onigatari"  height="48"  width="48" /></a> 
+    
 </p>
 
 # 💻 Tech Stack:
