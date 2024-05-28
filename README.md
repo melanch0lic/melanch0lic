@@ -3,7 +3,7 @@
     <b>Welcome to my page!</b><br><br>
    <i>
         I'm <a href="https://vk.com/ninjaseekinglight" target="_blank">Zaur</a>.<br>
-        Currently learning Flutter/Dart without falling on my bottom.⛩️ The way of Flutter samurai is here.<br>
+        Currently learning Flutter/Dart without falling on my bottom.⛩️ <br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a  href="https://t.me/empathic15"  target="blank"><img  align="center"  src="https://img.icons8.com/fluency/48/undefined/telegram-app.png"  alt="onigatari"  height="48"  width="48" /></a> 
