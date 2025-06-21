@@ -45,11 +45,10 @@ I’ve also worked with **Flutter Web**, **Firebase**, **flutter_map**, **Dio**,
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 LeetCode
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=melanch0lic&theme=tokyonight&hide_border=false" />
-</p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Yakudzae?theme=light,unicorn&ext=activity)](https://leetcode.com/Yakudzae)
+
 
 ---
 
@@ -61,8 +60,5 @@ I’ve also worked with **Flutter Web**, **Firebase**, **flutter_map**, **Dio**,
 
 ---
 
-## 🧠 LeetCode
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Yakudzae?theme=light,unicorn&ext=activity)](https://leetcode.com/Yakudzae)
 
 ---
