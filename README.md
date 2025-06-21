@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello there! I'm <a href="https://t.me/https://t.me/empathic15" target="_blank">Zaur Kudzaev</a></h1>
+<h1 align="center">👋 Hello there! I'm <a href="https://t.me/empathic15" target="_blank">Zaur Kudzaev</a></h1>
 
 <p align="center">
   👨‍💻 Mobile Developer | Flutter Enthusiast | Hackathon Finalist  
