@@ -22,12 +22,11 @@ Frontend developer with experience building and maintaining client-server applic
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melanch0lic&theme=tokyonight&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=melanch0lic&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Yakudzae)](https://leetcode.com/Yakudzae)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=melanch0lic&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Yakudzae?theme=light,unicorn&ext=activity)](https://leetcode.com/Yakudzae)
