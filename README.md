@@ -3,11 +3,15 @@
 
 Frontend developer with experience building and maintaining client-server applications on Flutter. Participated in team development as well as designing application architecture from scratch. I apply clean architecture principles and use state managers such as BLoC, Provider and Riverpod. I have experience with Flutter Web, firebase, flutter_map, Dio, Retrofit, and developing Telegram bots and parsers in Python.
 
-🔧 Technologies: Dart, Flutter, Firebase, REST API, SQLite, Supabase, Flutter Web, Python🌍 English: B1📱 Mobile Development Intensive by Yandex (Sirius)
+🔧 Technologies: Dart, Flutter, Firebase, REST API, SQLite, Supabase, Flutter Web, Python
+🌍 English: B1
+<br>
 
 🏆 Achievements:
 
 🥈 Silver medalist of the first Russian Sports Programming Championship (discipline: product development)
+
+📱 Mobile Development Intensive by Yandex (Sirius)
 
 🏕 Winner of the North Caucasus tourist hackathon Hackground
 
