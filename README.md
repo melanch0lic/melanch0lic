@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, guys!</h1>
-👨‍💻 Frontend Developer | Flutter Enthusiast | Hackathon Finalist
+<h1 align="center">Hello there, guys! I am Zaur Kudzaev</h1>
+👨‍💻 Mobile Developer | Flutter Enthusiast | Hackathon Finalist
 
 Frontend developer with experience building and maintaining client-server applications on Flutter. Participated in team development as well as designing application architecture from scratch. I apply clean architecture principles and use state managers such as BLoC, Provider and Riverpod. I have experience with Flutter Web, firebase, flutter_map, Dio, Retrofit, and developing Telegram bots and parsers in Python.
 
